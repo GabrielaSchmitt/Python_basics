@@ -5,9 +5,11 @@ Olá, neste repositório estão alguns algoritmos desenvolvidos em Python durant
 ## Sumário
 
  **1. Tipos Primitivos**
+ 
  Este código mostra como geralmente são usados os 4 tipos primitivos: booleanos (bool), inteiros (int), flutuantes (float) e string(str), no python e exemplos. 
 
 **2. Desafios 01** 
+
 Neste arquivo há algoritmos básicos que fazem:
  - Manuseio de espaços com string;
  - Manuseio de operadores matemáticos básicos ( + - * / ** // %);
@@ -21,6 +23,7 @@ Neste arquivo há algoritmos básicos que fazem:
  - Conversor de Celsius para Fahrenheit.
 
 **3. Desafios 02**
+
 Neste arquivo há algoritmos que fazem:
  - Importação de módulos como o Math, Random, emoji, pygame;
  - Algoritmo que calcula hipotenusa;
@@ -30,6 +33,7 @@ Neste arquivo há algoritmos que fazem:
  - Algoritmo que toca arquivo mp3. 
  
  **4. Manipulação de string**
+ 
 Neste arquivo há instruções de como manipular strings e algoritmo de pratica, que fazem:
  - Algoritmo que manipula string para maiúsculo e minúsculo, conta o número de letras;
  - Algoritmo que exibe a unidade, dezena, centena e milhar do número inserido;
@@ -38,6 +42,7 @@ Neste arquivo há instruções de como manipular strings e algoritmo de pratica,
  - Algoritmo que mostra o primeiro e último nome do nome completo inserido. 
 
 **5. Desafios 03**
+
 Neste arquivo há algoritmos de condição que fazem:
  - Algoritmo que apresenta mensagem diferente dependendo da média de notas obtida;
  - Algoritmo jogo para tentar adivinhar o número que o programa escolheu;
@@ -50,9 +55,11 @@ Neste arquivo há algoritmos de condição que fazem:
  - Algoritmo que verifica se as três retas inseridas podem formar um triângulo.
 
 **6. Cores**
+
 Neste arquivo há algoritmos da ANSI, que serve para colorir mensagens no python sem necessitar da importação de um módulo. 
  
 **7. Desafios 04**
+
 Neste arquivo há algoritmos de condições aninhadas que fazem:
  - Algoritmo que apresenta verifica se usuário terá empréstimo negado ou concedido de acordo com salário, valor do imóvel e tempo de amortização;
  - Conversor de números inteiros para binário, octal e hexadecimal;
