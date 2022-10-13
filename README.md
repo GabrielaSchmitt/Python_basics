@@ -72,6 +72,7 @@ Neste arquivo há algoritmos de condições aninhadas que fazem:
  - Algoritmo jogo de Jokenpô (pedra, papel, tesoura) com o programa.  
  
  **8. Atividades cpf e lista**
+ 
  Neste arquivo do tipo Jupyter Notebook há algoritmos de validação de CPF e o uso de listas e função lambda:
  - Algoritmo que verifica se o cpf informado pelo usuário é válido;
  - Algoritmo que com os primeiros 9 dígitos do cpf calcula os dois últimos;
