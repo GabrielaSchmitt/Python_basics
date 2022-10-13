@@ -1,4 +1,4 @@
-﻿# Baby steps on Python 
+﻿# Meu primeiros algoritmos, feitos em Python 
 Olá, neste repositório estão alguns algoritmos desenvolvidos em Python durante meus estudos.
 
 
