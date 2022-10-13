@@ -1,4 +1,4 @@
-﻿# Python
+﻿# Baby steps on Python 
 Olá, neste repositório estão alguns algoritmos desenvolvidos em Python durante meus estudos.
 
 
