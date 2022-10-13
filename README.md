@@ -82,7 +82,7 @@ Neste arquivo há algoritmos de condições aninhadas que fazem:
  
  **9. Caixa eletrônico**
  
-Neste arquivo do tipo Jupyter Notebook há o algoritmo de um caixa eletronico utilizando a biblioteca Pandas para utilização de DataFrames. 
+Neste arquivo do tipo Jupyter Notebook há o algoritmo de um caixa eletronico utilizando a biblioteca Pandas para utilização de DataFrames. Há também ao final do arquivo, um trechô de código para compreender autilização da biblioteca. 
 
 
 
