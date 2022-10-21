@@ -92,9 +92,11 @@ Neste arquivo do tipo Jupyter Notebook há algoritmos utilizando ranges, listas,
 - Algoritmo que armazena a marca dos carros e calcula a autonomia considerando preço de gasolina por 1000km;
 - Algoritmo para posto de gasolina que calcula a porcentagem de preferência dos clientes por combustível;
 
+**11. Comandos MySQL via Python**
 
-
-
-
- 
+Neste arquivo há algoritmos utilizando comandos MySQL em Python conectado com o banco tais como create table, select, insert entre outros. 
+- Criando database. 
+- Criando tabelas com dependencias, foreign key, primary key. 
+- Inserindo dados com listas, com valor, com entrada do usuário. 
+- Mostrando dados das tabelas, selects.
 
