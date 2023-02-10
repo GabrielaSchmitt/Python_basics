@@ -1,0 +1,2 @@
+# This is a '.gitattributes' file which reclassifies all '.ipynb' Jupyther notebook files in this repository as Python:
+*.ipynb linguist-language=Python
