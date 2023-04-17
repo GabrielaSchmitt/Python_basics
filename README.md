@@ -100,3 +100,5 @@ Neste arquivo há algoritmos utilizando comandos MySQL em Python conectado com o
 - Inserindo dados com listas, com valor, com entrada do usuário. 
 - Mostrando dados das tabelas, selects.
 
+**13. Hash Passwords**
+Neste arquivo há um algoritmo simples mostrando como encriptar uma senha no padrão SHA256 em python. 
