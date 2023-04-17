@@ -5,7 +5,7 @@ password = input("Password: ")
 # encoding for storing
 password = sha256(password.encode()).digest()
 
-# when trying to Login, the service must compare the hashed password with the dashed input, as below:
+# when trying to Login, the service must compare the hashed password with the hashed input, as below:
 login_password = input("Password: ")
 hashed_login_password = sha256(login_password.encode()).digest()
 
