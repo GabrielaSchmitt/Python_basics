@@ -107,3 +107,7 @@ Neste arquivo há um algoritmo simples mostrando como encriptar uma senha no pad
 **13. Cifra de Cesar**
 
 Neste arquivo há um algoritmo simples que decifra e cifra um texto qualquer com a Cifragem de Cesar dada uma chave.
+
+**14. Rail Fence Cipher **
+
+Neste arquivo há um algoritmo simples que cifra um texto qualquer com a Cifragem Rail Fence dada uma chave.
