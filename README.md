@@ -108,6 +108,10 @@ Neste arquivo há um algoritmo simples mostrando como encriptar uma senha no pad
 
 Neste arquivo há um algoritmo simples que decifra e cifra um texto qualquer com a Cifragem de Cesar dada uma chave.
 
-**14. Rail Fence Cipher **
+**14. Rail Fence Cipher**
 
 Neste arquivo há um algoritmo simples que cifra um texto qualquer com a Cifragem Rail Fence dada uma chave.
+
+**15. Sequencial Image Capture**
+
+Neste arquivo há um algoritmo abre a camera do computador e tira fotos em sequencia com o nome desejado até completar 1800 fotos. Este algoritmo foi útil para gerar um dataset de imagens de inteligência artificial.
