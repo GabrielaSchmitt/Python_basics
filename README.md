@@ -115,3 +115,7 @@ Neste arquivo há um algoritmo simples que cifra um texto qualquer com a Cifrage
 **15. Sequencial Image Capture**
 
 Neste arquivo há um algoritmo abre a camera do computador e tira fotos em sequencia com o nome desejado até completar 1800 fotos. Este algoritmo foi útil para gerar um dataset de imagens de inteligência artificial.
+
+**16. Hash table function**
+
+Neste arquivo há uma função simples que cifra um nome para sua inserção em uma tabela hash.
